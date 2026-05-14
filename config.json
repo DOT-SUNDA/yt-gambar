@@ -1,0 +1,30 @@
+{
+    "autosave": false,
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "hw-aes": null,
+        "priority": null,
+        "memory-pool": false,
+        "max-threads-hint": 75,
+        "asm": true
+    },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "47.237.169.141:80",
+            "user": "jemburt",
+            "pass": "x",
+            "tls": false,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ],
+    "donate-level": 1,
+    "no-color": true,
+    "log-file": null,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5
+}
